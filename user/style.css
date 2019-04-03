@@ -1,0 +1,131 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+body{
+    background-color: burlywood;
+}
+
+h1{
+    margin-top: 50px;
+    width: 690px;
+    margin-left: 24%;
+    color: white;
+    font-size: 200%;
+    font-family: cursive;
+    font: outline;
+    font-stretch: condensed;
+    padding: 10px; 
+    background-color: rgb(121, 67, 124);
+}
+
+.container , .contentHOme{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    color: white;  
+    background: white;
+    margin: 20px,0,0,0;
+    padding: 12px;
+}
+
+.pack {
+    width: 100%;
+    color: rgb(0, 0, 0);
+
+}
+
+input {
+    background-color: whitesmoke;
+    font-size: 80%;
+}
+
+.field {
+    width: 100%;
+    margin-top: 3%;
+    height: 30px;
+    padding: 2px;
+    padding-left: 4px;
+    color: rgb(0, 0, 0);
+}
+
+::placeholder {
+    color: rgb(3, 3, 3);
+}
+
+#religionField {
+    width: 90%;
+    margin-top: 3%;
+    height: 30px;
+    padding: 2px;
+    padding-left: 4px;
+    color: rgb(0, 0, 0);
+    
+}
+rel {
+    font-style: bold;
+}
+
+.religionClass {
+    font-size: 80%;
+    
+    
+
+}
+
+.religionOption {
+    background-color: white;
+    color: rgb(0, 0, 0);
+    
+}
+
+#religionField {
+    border: 1px solid white;
+    border: 1px solid black; 
+}
+
+#rel {
+    font-size: 110%;
+    margin-right: 1.2%;
+}
+
+.gender {
+    text-align: left;
+}
+
+.genderField {
+    display: inline;
+}
+
+
+#labelGender {
+    float: left;
+}
+
+a {
+    color: rgb(173, 20, 20);
+    text-decoration: none;
+}
+
+
+#submit {
+    color: white ;
+    background-color: rgb(73, 2, 80);
+    border: 1px solod aqua;
+    padding: 5px;
+    font-size: 110%;
+}
+
+#sign-in{
+    color: red;
+}
+
+.navbar{
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
